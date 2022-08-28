@@ -1,5 +1,5 @@
-.odd-numbers {
-    background-color: hsl(320, 50%, 75%);
+.odd {
+    background-color: hsl(335, 50%, 70%);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -8,6 +8,12 @@
    font-size: 36px;
 }
 
-#number-3 {
+.odder {
     font-size: 24px;
+}
+
+#number-4 {
+    background-color: #90ff90;
+    font-size: 24px;
+    font-weight: 800;
 }
