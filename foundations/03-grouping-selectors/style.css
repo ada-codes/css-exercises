@@ -6,3 +6,9 @@
 .counter-tempt {
     background-color: hsl(58,70%,50%);
 }
+
+.tempt,
+.counter-tempt {
+    font-size: 26x;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
